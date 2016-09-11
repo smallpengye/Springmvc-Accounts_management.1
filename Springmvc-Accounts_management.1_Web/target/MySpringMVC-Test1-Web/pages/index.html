@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>index</title>
+    <!-- 新 Bootstrap 核心 CSS 文件 -->
+    <link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <!-- 可选的Bootstrap主题文件（一般不用引入） -->
+    <link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+    <!-- jQuery文件。务必在bootstrap.min.js 之前引入 -->
+    <script src="http://cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
+    <!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+    <script src="http://cdn.bootcss.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script src="../js/main.js"></script>
+</head>
+<body>
+<table class="table table-bordered" id="accounts">
+    <thead>
+    <tr role="row">
+        <th class="sorting" align="left">姓名</th>
+        <th class="sorting" align="left">日期</th>
+        <th class="sorting" align="left">收入</th>
+        <th class="sorting" align="left">收入来源</th>
+        <th class="sorting" align="left">支出</th>
+        <th class="sorting" align="left">支出去向</th>
+        <th class="sorting" align="left">总计</th>
+        <th class="sorting" align="left">操作</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td id="userName"></td>
+        <td id="income"></td>
+        <td id="incomersource"></td>
+        <td id="pay"></td>
+        <td id="payfor"></td>
+        <td id="total"></td>
+        <td id="date"></td>
+        <td><a href="">修改</a> <a href=""> 删除</a></td>
+    </tr>
+    </tbody>
+</table>
+<div class="btn-toolbar" role="toolbar" aria-label="...">
+
+    <div class="btn-group" role="group" aria-label="..." >上一页</div>
+    <div class="btn-group" role="group" aria-label="..." value="1">              </div>
+    <div class="btn-group" role="group" aria-label="...">       2       </div>
+    <div class="btn-group" role="group" aria-label="...">       3       </div>
+    <div class="btn-group" role="group" aria-label="...">下一页</div>
+</div>
+<div class="btn-group" role="group" aria-label="...">
+    <button type="button" class="btn btn-default" id="PreviouspageBtn">上一页</button>
+    <button type="button" class="btn btn-default" id="thispage"  value="0">1</button>
+    <button type="button" class="btn btn-default" id="nextpageBtn">下一页</button>
+</div>
+</body>
+</html>

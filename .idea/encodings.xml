@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_DAO/src/main/java/cn/edu/hfuu/Accounts_management/Acciunts_management/imp/UserImp.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_DAO/src/main/java/cn/edu/hfuu/Accounts_management/imp/UserImp.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_Service/src/main/java/cn/edu/hfuu/Accounts_management/imp/UserServiceimp.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/java/cn/edu/hfuu/Accounts_management/controller/MainController.java" charset="GBK" />
+  </component>
+</project>

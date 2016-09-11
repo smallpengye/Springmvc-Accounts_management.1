@@ -1,0 +1,1581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a699c83-efa3-48cb-a368-c22d4296812c" name="Default" comment="" />
+    <ignored path="Springmvc-Accounts_management.1.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <ignored path="$PROJECT_DIR$/Springmvc-Accounts_management.1_DAO/target/" />
+    <ignored path="$PROJECT_DIR$/Springmvc-Accounts_management.1_Service/target/" />
+    <ignored path="$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/target/" />
+    <ignored path="$PROJECT_DIR$/Springmvc-Accounts_management.1_Interface/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Springmvc-Accounts_management.1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="newuser.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_DAO/src/main/resources/mappers/newuser.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+              <folding>
+                <marker date="1470224451725" expanded="true" signature="737:785" ph="select * fro... newuser" />
+                <marker date="1470224451725" expanded="true" signature="883:931" ph="select * fro... newuser" />
+                <marker date="1470224451725" expanded="true" signature="1004:1072" ph="insert into newuser... " />
+                <marker date="1470224451725" expanded="true" signature="1145:1222" ph="UPDATE newus... " />
+                <marker date="1470224451725" expanded="true" signature="1295:1316" ph="SELECT * fro... newuser" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/java/cn/edu/hfuu/Accounts_management/controller/MainController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1782">
+              <caret line="99" column="0" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IUserDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_DAO/src/main/java/cn/edu/hfuu/Accounts_management/IUserDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Spring-mvc.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/resources/Spring/Spring-mvc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2706">
+              <caret line="123" column="39" selection-start-line="123" selection-start-column="39" selection-end-line="123" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserImp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_DAO/src/main/java/cn/edu/hfuu/Accounts_management/imp/UserImp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1569">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="81" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_DAO/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_DAO/src/main/java/cn/edu/hfuu/Accounts_management/domain/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Accountsimp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_DAO/src/main/java/cn/edu/hfuu/Accounts_management/imp/Accountsimp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/webapp/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" column="20" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="package-info" />
+        <option value="Tag Library Descriptor" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/webapp/pages/register.html" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/java/cn/edu/hfuu/Acciunts_management/Myview/MyView.java" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/java/cn/edu/hfuu/Acciunts_management/request/LoginRequest.java" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/java/cn/edu/hfuu/Acciunts_management/request/Request.java" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/java/cn/edu/hfuu/Acciunts_management/response/Response.java" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/java/cn/edu/hfuu/Acciunts_management/response/LoginResponse.java" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_DAO/src/main/java/cn/edu/hfuu/Acciunts_management/domain/User.java" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_DAO/src/main/java/cn/edu/hfuu/Acciunts_management/Acciunts_management/package-info.java" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_DAO/pom.xml" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_DAO/src/main/java/cn/edu/hfuu/Acciunts_management/IUserDao.java" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_DAO/src/main/java/cn/edu/hfuu/Acciunts_management/imp/UserImp.java" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_Service/src/main/java/cn/edu/hfuu/Accouts_management/IUserService.java" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_Service/src/main/java/cn/edu/hfuu/Accouts_management/imp/UserServiceimp.java" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/java/cn/edu/hfuu/Acciunts_management/controller/MainController.java" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_DAO/src/main/java/cn/edu/hfuu/Accounts_management/domain/Accounts.java" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_DAO/src/main/java/cn/edu/hfuu/Accounts_management/imp/AccountsDao.java" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_DAO/src/main/java/cn/edu/hfuu/Accounts_management/IAccountsDao.java" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/java/cn/edu/hfuu/Accounts_management/controller/BaseController.java" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_DAO/src/main/resources/mappers/Accounts.xml" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_Service/src/main/java/cn/edu/hfuu/Accounts_management/IUserService.java" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/java/cn/edu/hfuu/Accounts_management/response/Response.java" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/java/cn/edu/hfuu/Accounts_management/response/LoginResponse.java" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/java/cn/edu/hfuu/Accounts_management/request/LoginRequest.java" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/webapp/pages/login.html" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/webapp/js/login.js" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_DAO/src/main/java/cn/edu/hfuu/Accounts_management/IUserDao.java" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_DAO/src/main/resources/mappers/newuser.xml" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/pom.xml" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_DAO/src/main/java/cn/edu/hfuu/Accounts_management/imp/UserImp.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_Service/src/main/java/cn/edu/hfuu/Accounts_management/imp/UserServiceimp.java" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/java/cn/edu/hfuu/Accounts_management/controller/MainController.java" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/webapp/pages/index.html" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/webapp/js/EditNews.js" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/webapp/pages/EditNews.html" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/resources/mybatis/new.xml" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/webapp/js/main.js" />
+        <option value="$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/resources/Spring/Spring-mvc.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="1378" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Springmvc-Accounts_management.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Springmvc-Accounts_management.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Springmvc-Accounts_management.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Springmvc-Accounts_management.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Springmvc-Accounts_management.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Springmvc-Accounts_management.1_DAO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Springmvc-Accounts_management.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Springmvc-Accounts_management.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Springmvc-Accounts_management.1_DAO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Springmvc-Accounts_management.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Springmvc-Accounts_management.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Springmvc-Accounts_management.1_DAO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mappers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Springmvc-Accounts_management.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Springmvc-Accounts_management.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Springmvc-Accounts_management.1_DAO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Accounts_management" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Springmvc-Accounts_management.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Springmvc-Accounts_management.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Springmvc-Accounts_management.1_DAO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Accounts_management" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Springmvc-Accounts_management.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Springmvc-Accounts_management.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Springmvc-Accounts_management.1_DAO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Accounts_management" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="domain" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\志鹏\IdeaProjects\Springmvc-Accounts_management.1\Springmvc-Accounts_management.1_Web\src\main\webapp" />
+      <recent name="C:\Users\志鹏\IdeaProjects\Springmvc-Accounts_management.1\Springmvc-Accounts_management.1_Web\src\main\webapp\pages" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.edu.hfuu.Accouts_management" />
+      <recent name="cn.edu.hfuu.Accouts_management.imp" />
+      <recent name="cn.edu.hfuu.Acciunts_management" />
+      <recent name="cn.edu.hfuu.Acciunts_management.imp" />
+      <recent name="cn.edu.hfuu.Acciunts_management.domain" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\志鹏\IdeaProjects\Springmvc-Accounts_management.1\Springmvc-Accounts_management.1_DAO\src\main\java\cn\edu\hfuu\Acciunts_management" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.Springmvc-Accounts_management.1">
+    <configuration default="false" name="Springmvc-Accounts_management.1" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/Springmvc-Accounts_management.1_Web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Springmvc-Accounts_management.1" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Maven.Springmvc-Accounts_management.1" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Maven.Springmvc-Accounts_management.1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a699c83-efa3-48cb-a368-c22d4296812c" name="Default" comment="" />
+      <created>1470019689217</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1470019689217</updated>
+      <workItem from="1470019691936" duration="25426000" />
+      <workItem from="1470099719862" duration="20380000" />
+      <workItem from="1470121549470" duration="12409000" />
+      <workItem from="1470186608142" duration="33944000" />
+      <workItem from="1470228720984" duration="4342000" />
+      <workItem from="1470272972213" duration="982000" />
+      <workItem from="1470279069184" duration="170000" />
+      <workItem from="1470279271315" duration="49000" />
+      <workItem from="1470290217182" duration="2187000" />
+      <workItem from="1470294503474" duration="1285000" />
+      <workItem from="1470304749179" duration="622000" />
+      <workItem from="1470315594580" duration="23000" />
+      <workItem from="1470365315037" duration="4420000" />
+      <workItem from="1470382202919" duration="4601000" />
+      <workItem from="1470389433425" duration="277000" />
+      <workItem from="1470390380595" duration="2963000" />
+      <workItem from="1470726825493" duration="771000" />
+      <workItem from="1470821649908" duration="866000" />
+      <workItem from="1470894828972" duration="177000" />
+      <workItem from="1471238694058" duration="5477000" />
+      <workItem from="1471312469039" duration="12205000" />
+      <workItem from="1471397785315" duration="629000" />
+      <workItem from="1471413532115" duration="6117000" />
+      <workItem from="1471503738202" duration="11841000" />
+      <workItem from="1471567990806" duration="14860000" />
+      <workItem from="1471943343659" duration="25000" />
+      <workItem from="1471943482719" duration="1347000" />
+      <workItem from="1472725046074" duration="298000" />
+      <workItem from="1473255420319" duration="425000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="169118000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="0" width="1378" height="744" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13584287" sideWeight="0.28214827" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39863843" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13584287" sideWeight="0.71785176" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37806875" sideWeight="0.49092284" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2572079" sideWeight="0.7488889" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23958333" sideWeight="0.25111112" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22306526" sideWeight="0.308" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23567921" sideWeight="0.494705" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2831424" sideWeight="0.8078669" order="8" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32569557" sideWeight="0.5128593" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39863843" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23567921" sideWeight="0.494705" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32392028" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37806875" sideWeight="0.49092284" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28441754" sideWeight="0.7488889" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23958333" sideWeight="0.25111112" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22306526" sideWeight="0.308" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4222586" sideWeight="0.4871407" order="8" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="89" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.8/mybatis-3.2.8.jar!/org/apache/ibatis/executor/resultset/DefaultResultSetHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1694">
+          <caret line="119" column="12" selection-start-line="119" selection-start-column="12" selection-end-line="119" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.8/mybatis-3.2.8.jar!/org/apache/ibatis/session/defaults/DefaultSqlSession.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="95" column="0" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.8/mybatis-3.2.8.jar!/org/apache/ibatis/executor/CachingExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="64" column="37" selection-start-line="64" selection-start-column="37" selection-end-line="64" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.8/mybatis-3.2.8.jar!/org/apache/ibatis/session/defaults/DefaultSqlSessionFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="23" column="64" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.0/mybatis-spring-1.3.0.jar!/org/mybatis/spring/support/SqlSessionDaoSupport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.0/mybatis-spring-1.3.0.jar!/org/mybatis/spring/SqlSessionFactoryBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.8/mybatis-3.2.8.jar!/org/apache/ibatis/session/SqlSessionFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.8/mybatis-3.2.8.jar!/org/apache/ibatis/session/SqlSessionManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.0/mybatis-spring-1.3.0.jar!/org/mybatis/spring/SqlSessionTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="53" column="22" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_Interface/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_Service/src/main/java/cn/edu/hfuu/Accounts_management/IUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-pool/commons-pool/1.5.4/commons-pool-1.5.4.jar!/org/apache/commons/pool/impl/GenericObjectPool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/cn.edu.hfuu:Springmvc-Accounts_management.1_Web:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>cn.edu.hfuu:Springmvc-Accounts_management.1_Web:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="0.0" y="770.0">cn.edu.hfuu:Springmvc-Accounts_management.1_Web:1.0-SNAPSHOT</node>
+            <node x="468.5" y="280.9375">junit:junit:jar:3.8.1</node>
+            <node x="353.0" y="350.9375">cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT</node>
+            <node x="720.0" y="245.0">cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT</node>
+            <node x="1092.0" y="0.0">cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT/org.mybatis:mybatis-spring:jar:1.3.0</node>
+            <node x="1102.5" y="70.0">cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT/org.springframework:spring-orm:jar:3.2.8.RELEASE</node>
+            <node x="1333.5" y="35.0">cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT/org.springframework:spring-orm:jar:3.2.8.RELEASE/org.springframework:spring-jdbc:jar:3.2.8.RELEASE</node>
+            <node x="1341.0" y="105.0">cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT/org.springframework:spring-orm:jar:3.2.8.RELEASE/org.springframework:spring-tx:jar:3.2.8.RELEASE</node>
+            <node x="1073.0" y="140.0">cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT/mysql:mysql-connector-java:jar:5.1.38</node>
+            <node x="1113.0" y="210.0">cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT/org.mybatis:mybatis:jar:3.2.8</node>
+            <node x="1113.0" y="280.0">cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT/com.alibaba:fastjson:jar:1.2.12</node>
+            <node x="1079.0" y="350.0">cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT/commons-validator:commons-validator:jar:1.4.0</node>
+            <node x="1310.0" y="315.0">cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT/commons-validator:commons-validator:jar:1.4.0/commons-beanutils:commons-beanutils:jar:1.8.3</node>
+            <node x="1312.0" y="385.0">cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT/commons-validator:commons-validator:jar:1.4.0/commons-digester:commons-digester:jar:1.8</node>
+            <node x="1077.0" y="420.0">cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT/javax.annotation:javax.annotation-api:jar:1.2</node>
+            <node x="1075.5" y="490.0">cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT/commons-fileupload:commons-fileupload:jar:1.3.1</node>
+            <node x="1330.5" y="490.0">cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT/commons-fileupload:commons-fileupload:jar:1.3.1/commons-io:commons-io:jar:2.2</node>
+            <node x="802.0" y="385.9375">cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/org.springframework:spring-beans:jar:3.2.8.RELEASE</node>
+            <node x="450.0" y="424.6875">javax.servlet:servlet-api:jar:2.5</node>
+            <node x="436.0" y="642.3600260416669">org.springframework:spring-webmvc:jar:3.2.8.RELEASE</node>
+            <node x="798.5" y="563.2942708333333">org.springframework:spring-webmvc:jar:3.2.8.RELEASE/org.springframework:spring-context:jar:3.2.8.RELEASE</node>
+            <node x="1103.0" y="563.2942708333333">org.springframework:spring-webmvc:jar:3.2.8.RELEASE/org.springframework:spring-context:jar:3.2.8.RELEASE/org.springframework:spring-aop:jar:3.2.8.RELEASE</node>
+            <node x="1334.0" y="563.2942708333333">org.springframework:spring-webmvc:jar:3.2.8.RELEASE/org.springframework:spring-context:jar:3.2.8.RELEASE/org.springframework:spring-aop:jar:3.2.8.RELEASE/aopalliance:aopalliance:jar:1.0</node>
+            <node x="788.0" y="633.2942708333333">org.springframework:spring-webmvc:jar:3.2.8.RELEASE/org.springframework:spring-expression:jar:3.2.8.RELEASE</node>
+            <node x="807.5" y="703.2942708333333">org.springframework:spring-webmvc:jar:3.2.8.RELEASE/org.springframework:spring-web:jar:3.2.8.RELEASE</node>
+            <node x="434.5" y="773.2942708333333">commons-dbcp:commons-dbcp:jar:1.4</node>
+            <node x="796.0" y="773.2942708333333">commons-dbcp:commons-dbcp:jar:1.4/commons-pool:commons-pool:jar:1.5.4</node>
+            <node x="446.5" y="843.2942708333333">org.springframework:spring-core:jar:3.2.8.RELEASE</node>
+            <node x="787.0" y="843.2942708333333">org.springframework:spring-core:jar:3.2.8.RELEASE/commons-logging:commons-logging:jar:1.1.3</node>
+            <node x="432.5" y="913.2942708333333">org.codehaus.jackson:jackson-core-asl:jar:1.8.4</node>
+            <node x="422.5" y="983.2942708333333">org.codehaus.jackson:jackson-mapper-asl:jar:1.8.4</node>
+            <node x="472.5" y="1053.2942708333333">jstl:jstl:jar:1.2</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT/org.springframework:spring-orm:jar:3.2.8.RELEASE" target="cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT/org.springframework:spring-orm:jar:3.2.8.RELEASE/org.springframework:spring-jdbc:jar:3.2.8.RELEASE">
+              <point x="49.0" y="-7.5" />
+              <point x="1230.0" y="77.5" />
+              <point x="1310.0" y="50.0" />
+              <point x="-49.5" y="-0.0" />
+            </edge>
+            <edge source="cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT" target="cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT/com.alibaba:fastjson:jar:1.2.12">
+              <point x="136.5" y="1.875" />
+              <point x="1073.0" y="295.0" />
+              <point x="-38.5" y="-0.0" />
+            </edge>
+            <edge source="cn.edu.hfuu:Springmvc-Accounts_management.1_Web:1.0-SNAPSHOT" target="javax.servlet:servlet-api:jar:2.5">
+              <point x="136.5" y="-6.666666666666629" />
+              <point x="353.0" y="439.6875" />
+              <point x="-46.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-core:jar:3.2.8.RELEASE" target="org.springframework:spring-core:jar:3.2.8.RELEASE/commons-logging:commons-logging:jar:1.1.3">
+              <point x="50.0" y="-0.0" />
+              <point x="-69.5" y="-0.0" />
+            </edge>
+            <edge source="cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT/commons-validator:commons-validator:jar:1.4.0" target="cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT/commons-validator:commons-validator:jar:1.4.0/commons-beanutils:commons-beanutils:jar:1.8.3">
+              <point x="72.5" y="-7.5" />
+              <point x="-73.0" y="-0.0" />
+            </edge>
+            <edge source="cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT" target="cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT">
+              <point x="143.5" y="-7.5" />
+              <point x="-136.5" y="-0.0" />
+            </edge>
+            <edge source="cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT" target="cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT/org.mybatis:mybatis-spring:jar:1.3.0">
+              <point x="136.5" y="-13.125" />
+              <point x="1073.0" y="15.0" />
+              <point x="-59.5" y="-0.0" />
+            </edge>
+            <edge source="cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT" target="cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT/javax.annotation:javax.annotation-api:jar:1.2">
+              <point x="136.5" y="9.375" />
+              <point x="-74.5" y="-0.0" />
+            </edge>
+            <edge source="cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT/commons-fileupload:commons-fileupload:jar:1.3.1" target="cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT/commons-fileupload:commons-fileupload:jar:1.3.1/commons-io:commons-io:jar:2.2">
+              <point x="76.0" y="-0.0" />
+              <point x="-52.5" y="-0.0" />
+            </edge>
+            <edge source="cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT" target="cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT/commons-validator:commons-validator:jar:1.4.0">
+              <point x="136.5" y="5.625" />
+              <point x="-72.5" y="-0.0" />
+            </edge>
+            <edge source="cn.edu.hfuu:Springmvc-Accounts_management.1_Web:1.0-SNAPSHOT" target="jstl:jstl:jar:1.2">
+              <point x="136.5" y="13.333333333333371" />
+              <point x="353.0" y="1068.2942708333333" />
+              <point x="-24.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:3.2.8.RELEASE" target="org.springframework:spring-webmvc:jar:3.2.8.RELEASE/org.springframework:spring-context:jar:3.2.8.RELEASE">
+              <point x="60.5" y="-10.0" />
+              <point x="640.0" y="647.3600260416669" />
+              <point x="720.0" y="578.2942708333333" />
+              <point x="-58.0" y="-0.0" />
+            </edge>
+            <edge source="cn.edu.hfuu:Springmvc-Accounts_management.1_Web:1.0-SNAPSHOT" target="org.springframework:spring-core:jar:3.2.8.RELEASE">
+              <point x="136.5" y="3.3333333333333712" />
+              <point x="353.0" y="858.2942708333333" />
+              <point x="-50.0" y="-0.0" />
+            </edge>
+            <edge source="cn.edu.hfuu:Springmvc-Accounts_management.1_Web:1.0-SNAPSHOT" target="commons-dbcp:commons-dbcp:jar:1.4">
+              <point x="136.5" y="-0.0" />
+              <point x="353.0" y="788.2942708333333" />
+              <point x="-62.0" y="-0.0" />
+            </edge>
+            <edge source="cn.edu.hfuu:Springmvc-Accounts_management.1_Web:1.0-SNAPSHOT" target="org.codehaus.jackson:jackson-core-asl:jar:1.8.4">
+              <point x="136.5" y="6.666666666666629" />
+              <point x="353.0" y="928.2942708333333" />
+              <point x="-64.0" y="-0.0" />
+            </edge>
+            <edge source="cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT" target="cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/org.springframework:spring-beans:jar:3.2.8.RELEASE">
+              <point x="143.5" y="7.5" />
+              <point x="720.0" y="400.9375" />
+              <point x="-54.5" y="-0.0" />
+            </edge>
+            <edge source="cn.edu.hfuu:Springmvc-Accounts_management.1_Web:1.0-SNAPSHOT" target="junit:junit:jar:3.8.1">
+              <point x="136.5" y="-13.333333333333371" />
+              <point x="353.0" y="295.9375" />
+              <point x="-28.0" y="-0.0" />
+            </edge>
+            <edge source="cn.edu.hfuu:Springmvc-Accounts_management.1_Web:1.0-SNAPSHOT" target="org.codehaus.jackson:jackson-mapper-asl:jar:1.8.4">
+              <point x="136.5" y="10.0" />
+              <point x="353.0" y="998.2942708333333" />
+              <point x="-74.0" y="-0.0" />
+            </edge>
+            <edge source="cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT/commons-validator:commons-validator:jar:1.4.0" target="cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT/commons-validator:commons-validator:jar:1.4.0/commons-digester:commons-digester:jar:1.8">
+              <point x="72.5" y="7.5" />
+              <point x="-71.0" y="-0.0" />
+            </edge>
+            <edge source="commons-dbcp:commons-dbcp:jar:1.4" target="commons-dbcp:commons-dbcp:jar:1.4/commons-pool:commons-pool:jar:1.5.4">
+              <point x="62.0" y="-0.0" />
+              <point x="-60.5" y="-0.0" />
+            </edge>
+            <edge source="cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT" target="cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT/org.mybatis:mybatis:jar:3.2.8">
+              <point x="136.5" y="-1.875" />
+              <point x="1073.0" y="225.0" />
+              <point x="-38.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:3.2.8.RELEASE" target="org.springframework:spring-webmvc:jar:3.2.8.RELEASE/org.springframework:spring-expression:jar:3.2.8.RELEASE">
+              <point x="60.5" y="-0.0" />
+              <point x="640.0" y="657.3600260416669" />
+              <point x="720.0" y="648.2942708333333" />
+              <point x="-68.5" y="-0.0" />
+            </edge>
+            <edge source="cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT/org.springframework:spring-orm:jar:3.2.8.RELEASE" target="cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT/org.springframework:spring-orm:jar:3.2.8.RELEASE/org.springframework:spring-tx:jar:3.2.8.RELEASE">
+              <point x="49.0" y="7.5" />
+              <point x="1230.0" y="92.5" />
+              <point x="1310.0" y="120.0" />
+              <point x="-42.0" y="-0.0" />
+            </edge>
+            <edge source="cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT" target="cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT/org.springframework:spring-orm:jar:3.2.8.RELEASE">
+              <point x="136.5" y="-9.375" />
+              <point x="1073.0" y="85.0" />
+              <point x="-49.0" y="-0.0" />
+            </edge>
+            <edge source="cn.edu.hfuu:Springmvc-Accounts_management.1_Web:1.0-SNAPSHOT" target="org.springframework:spring-webmvc:jar:3.2.8.RELEASE">
+              <point x="136.5" y="-3.3333333333333712" />
+              <point x="353.0" y="657.3600260416669" />
+              <point x="-60.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:3.2.8.RELEASE/org.springframework:spring-context:jar:3.2.8.RELEASE/org.springframework:spring-aop:jar:3.2.8.RELEASE" target="org.springframework:spring-webmvc:jar:3.2.8.RELEASE/org.springframework:spring-context:jar:3.2.8.RELEASE/org.springframework:spring-aop:jar:3.2.8.RELEASE/aopalliance:aopalliance:jar:1.0">
+              <point x="48.5" y="-0.0" />
+              <point x="-49.0" y="-0.0" />
+            </edge>
+            <edge source="cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT" target="cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT/mysql:mysql-connector-java:jar:5.1.38">
+              <point x="136.5" y="-5.625" />
+              <point x="-78.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:3.2.8.RELEASE/org.springframework:spring-context:jar:3.2.8.RELEASE" target="org.springframework:spring-webmvc:jar:3.2.8.RELEASE/org.springframework:spring-context:jar:3.2.8.RELEASE/org.springframework:spring-aop:jar:3.2.8.RELEASE">
+              <point x="58.0" y="-0.0" />
+              <point x="-48.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:3.2.8.RELEASE" target="org.springframework:spring-webmvc:jar:3.2.8.RELEASE/org.springframework:spring-web:jar:3.2.8.RELEASE">
+              <point x="60.5" y="10.0" />
+              <point x="640.0" y="667.3600260416669" />
+              <point x="720.0" y="718.2942708333333" />
+              <point x="-49.0" y="-0.0" />
+            </edge>
+            <edge source="cn.edu.hfuu:Springmvc-Accounts_management.1_Web:1.0-SNAPSHOT" target="cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT">
+              <point x="136.5" y="-10.0" />
+              <point x="-143.5" y="-0.0" />
+            </edge>
+            <edge source="cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT" target="cn.edu.hfuu:Springmvc-Accounts_management.1_Service:jar:1.0-SNAPSHOT/cn.edu.hfuu:Springmvc-Accounts_management.1_DAO:jar:1.0-SNAPSHOT/commons-fileupload:commons-fileupload:jar:1.3.1">
+              <point x="136.5" y="13.125" />
+              <point x="-76.0" y="-0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8838753387533874" x="262.0" y="640.0" />
+          <SelectedNodes>
+            <node>cn.edu.hfuu:Springmvc-Accounts_management.1_Web:1.0-SNAPSHOT</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/commons-dbcp/commons-dbcp/1.4/commons-dbcp-1.4.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3256">
+          <caret line="148" column="1" selection-start-line="148" selection-start-column="1" selection-end-line="152" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/3.2.8.RELEASE/spring-webmvc-3.2.8.RELEASE-sources.jar!/org/springframework/web/servlet/view/AbstractUrlBasedView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="90" column="0" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.8/mybatis-3.2.8.jar!/org/apache/ibatis/datasource/pooled/PooledConnection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.8/mybatis-3.2.8.jar!/org/apache/ibatis/datasource/pooled/PooledDataSourceFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.38/mysql-connector-java-5.1.38.jar!/com/mysql/jdbc/Connection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.8/mybatis-3.2.8.jar!/org/apache/ibatis/datasource/pooled/PooledDataSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7084">
+          <caret line="370" column="25" selection-start-line="370" selection-start-column="25" selection-end-line="370" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.8/mybatis-3.2.8.jar!/org/apache/ibatis/datasource/pooled/PoolState.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="15" column="60" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.8/mybatis-3.2.8.jar!/org/apache/ibatis/datasource/DataSourceFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.8/mybatis-3.2.8.jar!/org/apache/ibatis/datasource/DataSourceException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/webapp/pages/EditNews.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/webapp/pages/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/resources/mybatis/new.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/java/cn/edu/hfuu/Accounts_management/response/Response.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/java/cn/edu/hfuu/Accounts_management/response/LoginResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/webapp/js/EditNews.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_Service/src/main/java/cn/edu/hfuu/Accounts_management/imp/UserServiceimp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_DAO/src/main/resources/mappers/Accounts.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_DAO/src/main/java/cn/edu/hfuu/Accounts_management/domain/Accounts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="80" column="23" selection-start-line="80" selection-start-column="23" selection-end-line="80" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/java/cn/edu/hfuu/Accounts_management/request/LoginRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/java/cn/edu/hfuu/Accounts_management/request/Request.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/java/cn/edu/hfuu/Accounts_management/controller/BaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_Service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/webapp/js/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/java/cn/edu/hfuu/Accounts_management/Myview/MyView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/webapp/pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/webapp/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/java/cn/edu/hfuu/Accounts_management/controller/MainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1782">
+          <caret line="99" column="0" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_DAO/src/main/java/cn/edu/hfuu/Accounts_management/IUserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/src/main/resources/Spring/Spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2706">
+          <caret line="123" column="39" selection-start-line="123" selection-start-column="39" selection-end-line="123" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="81" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_DAO/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_DAO/src/main/java/cn/edu/hfuu/Accounts_management/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_DAO/src/main/java/cn/edu/hfuu/Accounts_management/imp/Accountsimp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_DAO/src/main/java/cn/edu/hfuu/Accounts_management/imp/UserImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1569">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_DAO/src/main/resources/mappers/newuser.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <marker date="1470224451725" expanded="true" signature="737:785" ph="select * fro... newuser" />
+            <marker date="1470224451725" expanded="true" signature="883:931" ph="select * fro... newuser" />
+            <marker date="1470224451725" expanded="true" signature="1004:1072" ph="insert into newuser... " />
+            <marker date="1470224451725" expanded="true" signature="1145:1222" ph="UPDATE newus... " />
+            <marker date="1470224451725" expanded="true" signature="1295:1316" ph="SELECT * fro... newuser" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

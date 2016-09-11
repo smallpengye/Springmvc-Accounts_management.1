@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!-- 为这个mapper指定一个唯一的namespace，namespace的值习惯上设置成包名+sql映射文件名，这样就能够保证namespace的值是唯一的
+例如namespace="me.gacl.mapping.userMapper"就是me.gacl.mapping(包名)+userMapper(userMapper.xml文件去除后缀)
+ -->
+<mapper namespace="Accountsmappers">
+    <resultMap id="Accounts" type="cn.edu.hfuu.Accounts_management.domain.Accounts">
+        <result column="UserName" property="UserName"></result>
+        <result column="income"  property="income"></result>
+        <result column="incomesoure" property="incomesoure"></result>
+        <result column="pay"  property="pay"></result>
+        <result column="payfor"  property="payfor"></result>
+        <result column="total"  property="total"></result>
+        <result column="date"  property="date"></result>
+        <result column="alltotal"  property="alltotal"></result>
+    </resultMap>
+</mapper>

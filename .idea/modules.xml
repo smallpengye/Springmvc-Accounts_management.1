@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Springmvc-Accounts_management.1.iml" filepath="$PROJECT_DIR$/Springmvc-Accounts_management.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_DAO/Springmvc-Accounts_management.1_DAO.iml" filepath="$PROJECT_DIR$/Springmvc-Accounts_management.1_DAO/Springmvc-Accounts_management.1_DAO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_Service/Springmvc-Accounts_management.1_Service.iml" filepath="$PROJECT_DIR$/Springmvc-Accounts_management.1_Service/Springmvc-Accounts_management.1_Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/Springmvc-Accounts_management.1_Web.iml" filepath="$PROJECT_DIR$/Springmvc-Accounts_management.1_Web/Springmvc-Accounts_management.1_Web.iml" />
+    </modules>
+  </component>
+</project>

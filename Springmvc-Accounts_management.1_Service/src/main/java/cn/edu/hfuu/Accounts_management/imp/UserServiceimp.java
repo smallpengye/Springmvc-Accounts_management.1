@@ -1,0 +1,50 @@
+package cn.edu.hfuu.Accounts_management.imp;
+
+import cn.edu.hfuu.Accounts_management.IUserDao;
+import cn.edu.hfuu.Accounts_management.IUserService;
+import cn.edu.hfuu.Accounts_management.domain.User;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
+import java.util.Date;
+/**
+ * Created by ??? on 2016/7/28.
+ */
+@Component
+public class UserServiceimp implements IUserService {
+
+    @Autowired
+    IUserDao iUser;
+    //??????????????
+    public boolean  checkname(String name) {
+        System.out.print("false2");
+        boolean b=iUser.queryUsername(name);
+        if(b){
+             return true;
+        }
+        else {
+            return false;
+        }
+    }
+    //????????????????????????????
+    public String queryUserByUserName(String name){
+
+        //????????????????????????????userPsd????????????
+       if( iUser.queryUsername(name)){
+          User user= iUser.queryUser(name);
+           //?????????????????????queryUsername?????????????????????????????
+           return(user.getUserPsd());
+       }else{
+           return null;
+       }
+
+    }
+
+    public void UpDataTime(String name,Date date){
+          iUser.upDataTime(name,date);
+    }
+
+    public void RegisterUser(User user){
+        iUser.insertUser(user);
+    }
+}
